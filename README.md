@@ -22,10 +22,12 @@
         <h2 id="Section2">Usage</h2>
         <p>
            <ul>
-               <li>open terminal type ./timelapse/setup.sh</li>
+               <li>open terminal cd /timelapse</li>
+               <li>chmod +x *.sh</li>
+               <li>./setup.sh</li>
                <li>sudo nano webcam.sh and configure variables as needed</li>
-               <li></li>     
-               <li></li>
+               <li>sudo nano image_stitch.sh and configure variables as needed</li>     
+               <li>use crontab -e, select 1 to use nano. create a crontab to take pictures at desired intervals</li>
            </ul>
         </p>
         <h2 id="Section3">Hardware Setup</h2>
