@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <h1>AWebcam timelapse w/ Raspberry Pi 3/4</h1>
+        <h1>Webcam timelapse w/ Raspberry Pi 3/4</h1>
     </head>
     <body>
         <h1>Timelapse</h1>
@@ -24,11 +24,11 @@
            <ul>
                <li>open terminal type ./timelapse/setup.sh</li>
                <li>sudo nano webcam.sh and configure variables as needed</li>
-               <li>sudo reboot</li>     
+               <li>sudo nano </li>     
                <li>Your Done!!</li>
            </ul>
         </p>
         <h2 id="Section3">Hardware Setup</h2>
         <p>
-            For this project I used a raspberry pi 4b. However, any pi should work the same. The usb webcam I used was a logitech c920. 
+            For this project I used a raspberry pi 4b. However, any pi should work the same. The usb webcam I used was a logitech c920. the sd card must be formatted to be named webcam and have a folder inside called stills for the stitch script to work. 
         </p>
