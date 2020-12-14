@@ -24,8 +24,8 @@
            <ul>
                <li>open terminal type ./timelapse/setup.sh</li>
                <li>sudo nano webcam.sh and configure variables as needed</li>
-               <li>sudo nano </li>     
-               <li>Your Done!!</li>
+               <li></li>     
+               <li></li>
            </ul>
         </p>
         <h2 id="Section3">Hardware Setup</h2>
