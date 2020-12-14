@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# update system
+sudo apt-get update && sudo apt-get upgrade -y
+
 # install video encoder
 sudo apt install mencoder -y
 
